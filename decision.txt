@@ -1,0 +1,12 @@
+IDEAS:
+NAME: CHESS
+NAME: TEXT BASED ADVENTURE
+NAME: RPG
+NAME: GAME OF LIFE
+NAME: tIC TAC TOE
+
+IDEAS:
+NAME: TIC TAC TOE WITH A TWIST
+when user1 clicks on a box, they answer a question. if they get it right, that box is theirs. if they get it wrong, that question is passed
+onto user2. 
+if user2 gets it right that box is theirs. if user2 gets it wrong, then another question is displayed for user1.
